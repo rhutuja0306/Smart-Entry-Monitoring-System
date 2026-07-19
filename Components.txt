@@ -1,0 +1,9 @@
+Components Used
+
+• Arduino UNO
+• 16x2 LCD with I2C Module
+• IR Sensor ×2
+• Breadboard
+• Jumper Wires
+• USB Cable
+• Power Supply
